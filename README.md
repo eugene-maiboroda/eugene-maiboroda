@@ -34,5 +34,7 @@ Focused on building real-world backend services and REST APIs with scalable arch
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-maiboroda&layout=compact&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api?username=eugene-maiboroda&show_icons=true&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-maiboroda&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eugene-maiboroda&show_icons=true&theme=default" />
+</p>
