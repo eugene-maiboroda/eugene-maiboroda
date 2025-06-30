@@ -32,9 +32,17 @@ Focused on building real-world backend services and REST APIs with scalable arch
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 </p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-maiboroda&layout=compact&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api?username=eugene-maiboroda&show_icons=true&theme=default" />
 </p>
+
+### 🛠 Pet Projects
+- 
+- [Cryptor](https://github.com/eugene-maiboroda/Cryptor) – Encryption tool
+
+### 🧪 Educational Projects
+- [project-final-JV](https://github.com/eugene-maiboroda/project-final-JV)
+- [hippodrome](https://github.com/eugene-maiboroda/hippodrome)
