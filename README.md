@@ -1,28 +1,49 @@
+<h1 align="center">Hi, I'm Yevhenii Maiboroda 👋</h1>
 
-<h1 align="center">Hi, I'm Yevhenii Maiboroda</h1>
-<h3 align="center">Beginner backend Java developer from Ukraine. Currently in Spain</h3>
-
-
-
-- 💻 **My Pet project** under development
-
-- 📚 I’m currently learning **Spring Security**, **Spring Validator** and practice touch typing
-
-- 📫 How to reach me [**eugene.maiboroda.@gmail.com**](https://mail.google.com/)
-
-- ⚡ Fun fact I spend my free time on things that will help me to **become a professional**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yevhenii-maiboroda-6b107597/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yevhenii-maiboroda-6b107597/" height="30" width="40" /></a>
-<a href="https://fb.com/mai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mai" height="30" width="40" /></a>
-<a href="https://instagram.com/may" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="may" height="30" width="40" /></a>
+<p align="center">
+Aspiring Java Backend Developer from Ukraine 🇺🇦, currently based in Spain 🇪🇸  
+Focused on building real-world backend services and REST APIs with scalable architecture using Java and Spring Boot.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40""/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugene-maiboroda&show_icons=true&locale=en&layout=compact" alt="eugenejav" /></p>
+### 🚀 About Me
 
+- 🌱 Currently exploring backend architecture in depth to better understand how real-world backend systems are structured and built.
+- 🧩 Currently developing a backend project related to insurance services.
+- 🛠 Tech Stack: Java, Spring Boot, Hibernate, MySQL, Docker, JUnit, Swagger
+- 📬 Reach me at: [eugene.maiboroda@gmail.com](mailto:eugene.maiboroda@gmail.com)
+- 🎯 Goal: Become a professional backend developer and contribute to impactful projects
 
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eugene-maiboroda&show_icons=true&locale=en" alt="eugenejav" /></p> 
+---
+
+### 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub login -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark" alt="Streak Stats"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yevhenii-maiboroda-6b107597/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+  
