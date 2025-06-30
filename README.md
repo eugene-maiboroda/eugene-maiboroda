@@ -33,13 +33,8 @@ Focused on building real-world backend services and REST APIs with scalable arch
 
 ### 📈 GitHub Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub login -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark" alt="Streak Stats"/>
 </p>
-
 ---
 
 ### 🌐 Connect with Me
