@@ -5,8 +5,6 @@ Aspiring Java Backend Developer from Ukraine 🇺🇦, currently based in Spain 
 Focused on building real-world backend services and REST APIs with scalable architecture using Java and Spring Boot.
 </p>
 
----
-
 ### 🚀 About Me
 
 - 🌱 Currently exploring backend architecture in depth to better understand how real-world backend systems are structured and built.
@@ -15,7 +13,10 @@ Focused on building real-world backend services and REST APIs with scalable arch
 - 📬 Reach me at: [eugene.maiboroda@gmail.com](mailto:eugene.maiboroda@gmail.com)
 - 🎯 Goal: Become a professional backend developer and contribute to impactful projects
 
----
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yevhenii-maiboroda-6b107597/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 
 ### 🧰 Languages and Tools
 
@@ -29,16 +30,10 @@ Focused on building real-world backend services and REST APIs with scalable arch
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 </p>
 
----
 
 ### 📈 GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark" alt="Streak Stats"/>
 </p>
----
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yevhenii-maiboroda-6b107597/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
   
