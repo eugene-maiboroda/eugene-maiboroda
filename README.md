@@ -40,7 +40,6 @@ Focused on building real-world backend services and REST APIs with scalable arch
 </p>
 
 ### 🛠 Pet Projects
-- 
 - [Cryptor](https://github.com/eugene-maiboroda/Cryptor) – Encryption tool
 
 ### 🧪 Educational Projects
