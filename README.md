@@ -40,8 +40,8 @@ Focused on building real-world backend services and REST APIs with scalable arch
 </p>
 
 ### 🛠 Pet Projects
-- [P-cesar-cryptor](https://github.com/eugene-maiboroda/Cryptor) – Encryption tool
+- [P-cesar-cryptor](https://github.com/eugene-maiboroda/P-cesar-cryptor)
 
 ### 🧪 Educational Projects
-- [project-final-JV](https://github.com/eugene-maiboroda/project-final-JV)
-- [hippodrome](https://github.com/eugene-maiboroda/hippodrome)
+- [J-animal-island](https://github.com/eugene-maiboroda/J-animal-island)
+- [J-hippodrome](https://github.com/eugene-maiboroda/J-hippodrome)
