@@ -31,3 +31,8 @@ Focused on building real-world backend services and REST APIs with scalable arch
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 </p>
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-maiboroda&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=eugene-maiboroda&show_icons=true&theme=radical" />
