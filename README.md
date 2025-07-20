@@ -43,7 +43,7 @@ Focused on building real-world backend services and REST APIs with scalable arch
 - [P-cesar-cryptor](https://github.com/eugene-maiboroda/P-cesar-cryptor)
 
 ### 🧪 Educational Projects
-- [J-animal-island](https://github.com/eugene-maiboroda/J-animal-island)
 - [J-rpg-game](https://github.com/eugene-maiboroda/J-rpg-game)
+- [J-animal-island](https://github.com/eugene-maiboroda/J-animal-island)
 - [J-game-quest](https://github.com/eugene-maiboroda/J-game-quest)
 - [J-hippodrome](https://github.com/eugene-maiboroda/J-hippodrome)
