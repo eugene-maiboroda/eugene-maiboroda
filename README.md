@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yevhenii Maiboroda 👋</h1>
 
 <p align="center">
-Aspiring Java Backend Developer from Ukraine 🇺🇦, currently based in Spain 🇪🇸  
+Java Backend Developer from Ukraine 🇺🇦, currently based in Spain 🇪🇸  
 Focused on building real-world backend services and REST APIs with scalable architecture using Java and Spring Boot.
 </p>
 
