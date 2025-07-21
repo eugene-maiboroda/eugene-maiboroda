@@ -8,7 +8,7 @@ Focused on building real-world backend services and REST APIs with scalable arch
 ### 🚀 About Me
 
 - 🌱 Currently exploring backend architecture in depth to better understand how real-world backend systems are structured and built.
-- 🧩 In the process of developing a backend project related to insurance services.
+- 🧩 In the process of developing a backend book summary application and planning my next project — an insurance-related system.
 - 🛠 Tech Stack: Java, Spring Boot, Hibernate, MySQL, Docker, JUnit
 - 📬 Reach me at: [eugene.maiboroda@gmail.com](mailto:eugene.maiboroda@gmail.com)
 - 🎯 Goal: Become a professional in my field and contribute to impactful projects
