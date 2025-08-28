@@ -42,6 +42,7 @@ Focused on building real-world backend services and REST APIs with scalable arch
 ### 🛠 Pet Projects
 - [P-library-crud-api](https://github.com/eugene-maiboroda/P-library-crud-api)
 - [P-cesar-cryptor](https://github.com/eugene-maiboroda/P-cesar-cryptor)
+- [P-flashcard-quiz](https://github.com/eugene-maiboroda/P-flashcard-quiz)
 
 ### 🧪 Educational Projects
 - [J-player-api](https://github.com/eugene-maiboroda/J-rpg-game)
